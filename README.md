@@ -1,2 +1,2 @@
-# wire_frame_triangle_model
-A simple wire-frame triangle model. 
+# wire-frame triangle model
+A simple wire-frame triangle model with dynamic invisible edges.
