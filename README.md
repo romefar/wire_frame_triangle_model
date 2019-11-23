@@ -1,2 +1,2 @@
 # Wire-frame triangle model
-A simple wire-frame triangle model with dynamic invisible edges.
+A simple wire-frame triangle model with dynamic invisible edges (perspective projection).
